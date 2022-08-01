@@ -18,6 +18,7 @@ if(url==='/'){
         console.log(chunk);
         body.push(chunk);
         
+        
     });
     return req.on('end',()=>{
         const parsedBody=Buffer.concat(body).toString();
