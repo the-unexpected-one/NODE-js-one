@@ -1,0 +1,24 @@
+{
+  "name": "node-js-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon RoutingResponse2.js",
+    "start-server": "node RoutingResponse2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-unexpected-one/NODE-js-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-unexpected-one/NODE-js-one/issues"
+  },
+  "homepage": "https://github.com/the-unexpected-one/NODE-js-one#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
