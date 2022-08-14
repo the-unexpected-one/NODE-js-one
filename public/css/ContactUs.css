@@ -1,0 +1,58 @@
+.ContactUs-form{
+    border: 1px solid rgb(97, 16, 155);
+    width:40rem;
+     max-width: 100%;
+    margin:auto;
+    margin-top: 10px;
+    height:100%;
+    background-color:rgb(214, 195, 25);
+    border-radius: 6px;
+ }
+ .ContactUsform-control label{
+     padding:2px;
+     color:black;
+ }
+ .ContactUsform-control input{
+     border: 1px solid rgb(97, 16, 155);
+     font: inherit;
+     border-radius: 2px;
+     width: 90%;
+     border-radius: 6px;
+ }
+ .ContactUsform-control h3,
+ .ContactUsform-control label,
+ .ContactUsform-control input{
+     display: block;
+     margin-top: 10px;
+   margin-left: 10px;
+
+ }
+ .ContactUsform-control button{
+     border: 1px solid rgb(97, 16, 155);
+     color:rgb(97, 16, 155);
+   margin-top: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   border-radius: 3px;
+   cursor: pointer;
+   display: flex;
+   align-items: center;
+ margin-left: 280px;
+ 
+ 
+     
+ }
+ .ContactUsform-control h3{
+     color: rgb(97, 16, 155);
+    text-align: center;
+ }
+ .ContactUsform-control p{
+     color: black;
+    text-align: center;
+ }
+ button:hover,
+ button:active{
+     background-color: rgb(97, 16, 155);
+     color: white;
+     
+ }
